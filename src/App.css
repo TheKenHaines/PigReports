@@ -1,4 +1,31 @@
-label {
-  padding-right: 10px;
-  justify-content: right;
+.launch-wrapper {
+  background-color: whitesmoke;
+  padding: 10px 20px 20px 20px;
+  box-shadow: 2px 2px 2px 4px dodgerblue;
+  margin-top: 2rem;
+  width: 70%
 }
+
+h3 {
+ 
+  margin-bottom: 2rem;
+}
+
+.row {
+  margin: .40rem .40rem .20rem .40rem;
+}
+.label-launch {
+  font-weight: bold;  
+}
+
+.input-launch {
+  width: 15rem;
+  height: 2rem;
+  margin: 0;
+}
+
+.input-comments-launch {
+  width: 41rem;
+  height: 2rem;
+  margin-left: 1.15rem;
+  }
